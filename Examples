@@ -1,0 +1,78 @@
+Project Ice Cream Shop
+______________________
+Summary:  Ice Cream Near Me > Instant Delivery - Domino's link gives access denied for user error
+Severity: Minor
+
+Description:
+Steps:
+1. Open site https://www...
+2. Hover over "ORDER DELIVERY" on the top of navigation bar	
+3. Choose and click on "Delivery Supermarket"
+4. Click "Instant Delivery"
+5. Click link "Domino's"
+
+Expected result: The user should follow the link to the site http://www.dominos.co.uk/ and order ice cream
+Actual result: The user is denied access to the site http://www.dominos.co.uk/
+Screenshots:
+
+
+Project Online Store for ordering goods for home
+_________________________________________________
+#1
+Summary:  Main Menu > SALE ROOM: section information is not loading. Page not found
+Severity: Minor
+
+Description:
+Steps:
+1. Open the Home page
+2. Click the SALE ROOM on the Main Menu	
+
+Expected result: SALE ROOM section information should be displayed
+Actual result: SALE ROOM section information is not loading. "404. Page not found"
+Screenshots:
+
+#2
+Summary:  Main Menu > PORTMEIRION: Incorrect pagination at the bottom of the pages
+Severity: Average
+
+Description:
+Steps:
+1. Open the Home page
+2. Click the PORTMEIRION on the Main Menu	
+
+Expected result: Correct pagination on pages
+Actual result: Incorrect pagination. Instead of 12 possible images, the number 14 is written
+Screenshots:
+
+
+Testing of the authorization form
+_________________________________
+Summary:  The "Authorization Form" header is not centered in relation to the authorization fields
+Severity: Minor
+
+Description:
+Steps:
+1. Open the authorization form
+2. View the location of the header "Authorization Form"
+
+Expected result: The "Authorization Form" header should be centered relative to the authorization fields
+Actual result: The "Authorization Form" header is not centered in relation to the authorization fields
+Screenshots:
+
+
+Project Corporate online food odering
+_____________________________________
+Summary:  Order History: the amount debited from the account is indicated excluding coins
+Severity: Major
+
+Description:
+Steps:
+1. Open the "Menu Calculator" application
+2. Select "Porridge semolina" in the Monday menu
+3. Select "Scrambled eggs from two eggs" in the Monday menu
+4. Click on the button "Place an order"
+5. View "Order History"
+
+Expected result: The Order History should show the correct amount with coins without rounding
+Actual result: In the Order History the amount debited from the personal account is indicated excluding coins
+Screenshots:
